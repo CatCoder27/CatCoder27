@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-Hi, I am Ipsita
-- 🔭 I am a Game Designer! I studied Computer Science and Game Design.
-- 🌱 I’m currently learning AI and experimenting with some projects.
 # 💫 About Me:
 Hi, I am Ipsita!<br>I am a game designer by profession.<br>I studied Computer Science and Game Design.<br>I am currently learning AI and experimenting with some projects that help me make my job easier!<br>
 
